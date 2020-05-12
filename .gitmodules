@@ -4,3 +4,6 @@
 [submodule "Mobter-ProgressBar"]
 	path = Mobter-ProgressBar
 	url = https://github.com/rayhanrizz/Mobter-ProgressBar.git
+[submodule "Mobter-FloatingButton"]
+	path = Mobter-FloatingButton
+	url = https://github.com/rayhanrizz/Mobter-FloatingButton.git
