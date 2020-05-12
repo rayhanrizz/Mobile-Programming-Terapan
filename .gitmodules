@@ -1,3 +1,6 @@
 [submodule "Mobter-BottomSheet"]
 	path = Mobter-BottomSheet
 	url = https://github.com/rayhanrizz/Mobter-BottomSheet.git
+[submodule "Mobter-ProgressBar"]
+	path = Mobter-ProgressBar
+	url = https://github.com/rayhanrizz/Mobter-ProgressBar.git
